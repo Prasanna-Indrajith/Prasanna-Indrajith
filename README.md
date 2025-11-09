@@ -1,35 +1,43 @@
-<img src="https://github.com/Prasanna-Indrajith/Prasanna-Indrajith/blob/main/github-cover-image.webp" alt="Developer" />
+# Hello there! I'm Prasanna Indrajith
 
-<h1 align="center">Hi 👋, I'm Prasanna Indrajith</h1>
-<h3 align="center">A passionate front-end web developer from Sri Lanka</h3>
+**Automation | Embedded Systems | Robotics | Linux | DevOps**
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanna-indrajith&label=Profile%20views&color=0e75b6&style=flat" alt="prasanna-indrajith" /> </p>
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y1c3FxMnhpdnEzdTgwdG1pNGx3enF1eXZjcTNmcjRyejFtdmVhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated-front-end-developer" />
+## About Me
 
-- 🌱 I’m currently learning **vue, tailwindCSS, gsap**
+I'm a Bachelor of Technology student at the University of Colombo, specializing in Instrumentation and Automation Technology. My passion lies in crafting intelligent hardware solutions that seamlessly blend electronics and software. I'm deeply involved in the world of Embedded Systems, Robotics, and DevOps. With hands-on experience in microcontroller programming, circuit design, and system integration, I'm always eager to build and innovate.
 
-- 💬 Ask me about **vue**
+I am proficient in C and C++, and I'm actively exploring the capabilities of ATmega, ESP32, and STM platforms. A Linux enthusiast with a strong interest in automation and real-time systems, I'm driven by the desire to design reliable and scalable solutions through continuous learning and experimentation.
 
-- 📫 How to reach me **gallageindrajith89@gmail.com**
+---
 
-- ⚡ Fun fact **I am cool**
+## Tech Stack
 
+*   C
+*   C++
+*   Linux
+*   Bash
+*   Python
+*   NodeJS
+*   Octave/Matlab
+*   KiCad
+*   SimuleIDE
+*   FPGA
+*   Arduino
+*   STM32
+*   ESP32
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left">
-<a href="https://codepen.io/prasanna_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prasanna_in" height="30" width="40" /></a>
-<a href="https://twitter.com/prasanna820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasanna820" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17563308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17563308" height="30" width="40" /></a>
-</p>
+## Connect with me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanna--Indrajith-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prasanna-indrajith)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasanna-indrajith&show_icons=true&locale=en&layout=compact" alt="prasanna-indrajith" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanna-indrajith&show_icons=true&locale=en" alt="prasanna-indrajith" /></p>
+## GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna-indrajith&" alt="prasanna-indrajith" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Indrajith&layout=compact&theme=vision-friendly-dark)](https://github.com/Prasanna-Indrajith)
 
+[![Prasanna Indrajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasanna-Indrajith&show_icons=true&theme=vision-friendly-dark)](https://github.com/Prasanna-Indrajith)
